@@ -1,0 +1,32 @@
+img.octocat {
+    height: 200px;
+}
+
+.principal{
+    background-color: silver;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.rosado{
+
+    background-color: rgb(92, 86, 5);
+    justify-content: center;
+    border-left: 20px;
+
+}
+
+.azul{
+
+    background-color: rgb(35, 2, 66);
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+}
