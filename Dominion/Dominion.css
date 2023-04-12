@@ -2,4 +2,12 @@
     display: flex;
     background-color: rgb(179, 179, 179);
     height: 95px;
-} 
+}
+
+.list{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+}
