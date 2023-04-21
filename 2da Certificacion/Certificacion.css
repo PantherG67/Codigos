@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    color: gray;
+    background-color:#f0f0e8
+}
+
+.text{
+    color: black;
+}
+
+.solo{
+    color: orangered;
+}
